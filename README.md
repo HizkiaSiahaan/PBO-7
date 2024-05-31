@@ -20,6 +20,7 @@ Selamat bermain ^_^
 ## Dependencies
 1. Download dan Install Python3
 2. Install Python-Library dengan syntax :
+    ```
     pip install pygame 
     ```
     atau pada linux : 
