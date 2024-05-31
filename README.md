@@ -23,9 +23,11 @@ Selamat bermain ^_^
     ```
     pip install pygame 
     ```
-    atau pada linux : 
+    atau pada linux :
+    ```   
     pip3 install pygame 
-
+    ```
+    
 ##  Cara bermain
 1. Buka FlapVenture.py
 2. Pilih menu "Mulai"
